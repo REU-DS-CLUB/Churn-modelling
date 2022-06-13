@@ -4,7 +4,7 @@
 |----------------|----------------|
 | final_churn_modeling.py | Файл с функциями |
 | Final_Churn_modeling.ipynb | Пример работы в Jupyter NoteBook |
-| requirements.txt | Требуемые библиотеки |
+
 
 ## Описание
 
@@ -16,3 +16,10 @@
 Документация использованных библиотек:
 
 Sklearn https://scikit-learn.org/stable/ \
+Pandas https://pandas.pydata.org/docs/ \
+Seaborn https://seaborn.pydata.org/ \
+Matplotlib https://matplotlib.org/ \
+
+
+###                                                                    Контакты
+
