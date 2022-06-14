@@ -26,4 +26,4 @@ Matplotlib https://matplotlib.org/
 |----:|:----------:|:----|
 | Стрельцов Максим | @neonoir453 | max2003-02@mail.ru |
 | Исаева Диана| @iis_diink | dii.grase@yandex.ru |
-| Дарья Коваленко | @daria_lasagna | dkovalenko25@mail.ru |
+| Коваленко Дарья | @daria_lasagna | dkovalenko25@mail.ru |
