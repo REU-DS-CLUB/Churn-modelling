@@ -21,5 +21,9 @@ Seaborn https://seaborn.pydata.org/ \
 Matplotlib https://matplotlib.org/ 
 
 
-###                                                                    Контакты
-
+## :paw_prints: Контакты
+| **ФИ** | **Tелеграм** | **Email**|
+|----:|:----------:|:----|
+| Стрельцов Максим | @neonoir453 | max2003-02@mail.ru |
+| Исаева Диана| @iis_diink | dii.grase@yandex.ru |
+| Дарья Коваленко | @daria_lasagna | dkovalenko25@mail.ru |
